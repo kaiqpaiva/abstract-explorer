@@ -1,0 +1,20 @@
+# Saída gerada pelos scripts (muda a cada execução)
+index.html
+abstracts.json
+
+# Chaves e configurações locais — nunca versionar
+.env
+.env.*
+*.key
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editor / sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
